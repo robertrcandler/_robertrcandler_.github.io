@@ -2,8 +2,10 @@
 I created this readme from scratch. It is the first one I have created
 I am trying to follow along with the teacher while making this in class on wednesday.
 [Repository Link Here](../blob/master/02-Homework/Develop/index.html)
+
 [Web Link](https://github.com/robertrcandler/_robertrcandler_Homework1/blob/master/02-Homework/Develop/index.html)
 
+[3rd try](02-Homework/Develop/index.html)
 ## Second Heading
 Hastags mean headings. 
 
