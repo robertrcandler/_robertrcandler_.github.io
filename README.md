@@ -1,6 +1,7 @@
 # First readme
 I created this readme from scratch. It is the first one I have created
 I am trying to follow along with the teacher while making this in class on wednesday.
+[Website Link Here](../blob/master/02-Homework/Develop/index.html)
 
 ## Second Heading
 Hastags mean headings. 
