@@ -1,6 +1,6 @@
 # Link to Webpage
 [Link To index.html](02-Homework/Develop/index.html)
-[Link To style.css}(02-Homework/Develop/assets/css/style.css)
+[Link To style.css](02-Homework/Develop/assets/css/style.css)
 
 ## Second Heading
 Hastags mean headings. 
